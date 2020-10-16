@@ -1,5 +1,1 @@
-# excel_challenge
-
-# Using Excel to analyze Kickstarter data
-
-# Utilizes functions, conditional formatting, and Pivot Tables within Excel
+# excel_challenge, using Excel to analyze Kickstarter data, utitizes functions, conditional formatting, and Pivot Tables within Excel
